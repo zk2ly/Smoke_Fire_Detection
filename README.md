@@ -8,6 +8,8 @@
 
 weights中smoke.pt是用torch1.4以上版本用的，smoke2.pt是torch1.4及其以下版本用的。
 
+已封装成类，更改图片路径后直接运行smoke_fire_obj.py即可，返回一个列表
+
 如需准对特定场景数据集进行Fine-Tune,请参考yolov5项目: https://github.com/ultralytics/yolov5
 
 ## 检测效果
