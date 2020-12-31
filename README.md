@@ -18,4 +18,4 @@ weights中smoke.pt是用torch1.4以上版本用的，smoke2.pt是torch1.4及其�
 
 ![](https://github.com/zk2ly/Smoke_Fire_Detection/blob/main/README_IMG/003.png)
 
-![](https://github.com/zk2ly/Smoke_Fire_Detection/blob/main/README_IMG/004.png)
+![](https://github.com/zk2ly/Smoke_Fire_Detection/blob/main/README_IMG/000.png)
